@@ -1,0 +1,43 @@
+.body {
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logo-disney {
+    width: 30%;
+    margin: auto;
+}
+
+.font-family {
+    letter-spacing: 10px;
+    font-weight: 100;
+    color: rgb(187, 83, 151);
+}
+
+.h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.h2 {
+    font-size: 18px;
+}
+
+p {
+    color: rgb(59, 99, 166);
+    font-size: 13px;
+}
+
+img {
+    width: 350px;
+}
+
+.img-right {
+    float: right;
+    margin-left: 2%;
+}
+
+.img-left {
+    float: left;
+    margin-right: 2%;
+}

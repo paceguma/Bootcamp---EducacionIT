@@ -1,0 +1,56 @@
+.body {
+  background-color: rgb(39, 50, 56);
+}
+
+p{
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: 15px;
+}
+
+.font-family-h1 {
+  font-size: 56px;
+  font-weight: 500;
+  background-color: white;
+  text-align: center;
+  color: rgb(105, 133, 147);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.font-family-h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight:900;
+}
+
+h2::first-letter {
+  font-size: 30px;
+}
+
+img {
+  margin-left: 45px;
+  border: 6px solid;
+}
+
+.colour-coral {
+    color: rgb(230, 203, 191);
+}
+
+.colour-sky{
+    color: rgb(161, 193, 203);
+}
+
+.colour-grey{
+    color: rgb(188, 189, 191);
+}
+
+.colour-darkgrey{
+    color: rgb(94, 116, 148);
+}
+
+.colour-lightgrey{
+    color: rgb(178, 178, 171);
+}
